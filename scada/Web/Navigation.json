@@ -30,18 +30,7 @@
                     "Children": [
                         {
                             "Type": 2,
-                            "Name": "Rura_TrojnikWDol",
-                            "Id": 1456,
-                            "Desc": "",
-                            "Icon": null,
-                            "Priority": 0,
-                            "ParentId": 1769,
-                            "UniqueKeyId": 14562,
-                            "Children": null
-                        },
-                        {
-                            "Type": 2,
-                            "Name": "RuraPion",
+                            "Name": "KolankoLewoDół",
                             "Id": 1461,
                             "Desc": "",
                             "Icon": null,
@@ -52,7 +41,51 @@
                         },
                         {
                             "Type": 2,
-                            "Name": "RuraPoziom",
+                            "Name": "KolankoLewoGóra",
+                            "Id": 1463,
+                            "Desc": "",
+                            "Icon": null,
+                            "Priority": 0,
+                            "ParentId": 1769,
+                            "UniqueKeyId": 14632,
+                            "Children": null
+                        },
+                        {
+                            "Type": 2,
+                            "Name": "KolankoPrawoDół",
+                            "Id": 1462,
+                            "Desc": "",
+                            "Icon": null,
+                            "Priority": 0,
+                            "ParentId": 1769,
+                            "UniqueKeyId": 14622,
+                            "Children": null
+                        },
+                        {
+                            "Type": 2,
+                            "Name": "KolankoPrawoGóra",
+                            "Id": 1464,
+                            "Desc": "",
+                            "Icon": null,
+                            "Priority": 0,
+                            "ParentId": 1769,
+                            "UniqueKeyId": 14642,
+                            "Children": null
+                        },
+                        {
+                            "Type": 2,
+                            "Name": "Rura_TrojnikWDol",
+                            "Id": 1274,
+                            "Desc": "",
+                            "Icon": null,
+                            "Priority": 0,
+                            "ParentId": 1769,
+                            "UniqueKeyId": 12742,
+                            "Children": null
+                        },
+                        {
+                            "Type": 2,
+                            "Name": "RuraPion",
                             "Id": 1460,
                             "Desc": "",
                             "Icon": null,
@@ -63,7 +96,7 @@
                         },
                         {
                             "Type": 2,
-                            "Name": "ZaworPionowy",
+                            "Name": "RuraPoziom",
                             "Id": 1459,
                             "Desc": "",
                             "Icon": null,
@@ -74,7 +107,7 @@
                         },
                         {
                             "Type": 2,
-                            "Name": "ZaworPoziomy",
+                            "Name": "ZaworPionowy",
                             "Id": 1458,
                             "Desc": "",
                             "Icon": null,
@@ -85,13 +118,24 @@
                         },
                         {
                             "Type": 2,
-                            "Name": "Zbiornik",
+                            "Name": "ZaworPoziomy",
                             "Id": 1457,
                             "Desc": "",
                             "Icon": null,
                             "Priority": 0,
                             "ParentId": 1769,
                             "UniqueKeyId": 14572,
+                            "Children": null
+                        },
+                        {
+                            "Type": 2,
+                            "Name": "Zbiornik",
+                            "Id": 1456,
+                            "Desc": "",
+                            "Icon": null,
+                            "Priority": 0,
+                            "ParentId": 1769,
+                            "UniqueKeyId": 14562,
                             "Children": null
                         }
                     ]
