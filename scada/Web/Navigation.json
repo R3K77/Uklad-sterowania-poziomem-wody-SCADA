@@ -20,6 +20,84 @@
             "Children": [
                 {
                     "Type": 1,
+                    "Name": "_Elementy",
+                    "Id": 1769,
+                    "Desc": null,
+                    "Icon": null,
+                    "Priority": 0,
+                    "ParentId": 1701,
+                    "UniqueKeyId": 17691,
+                    "Children": [
+                        {
+                            "Type": 2,
+                            "Name": "Rura_TrojnikWDol",
+                            "Id": 1456,
+                            "Desc": "",
+                            "Icon": null,
+                            "Priority": 0,
+                            "ParentId": 1769,
+                            "UniqueKeyId": 14562,
+                            "Children": null
+                        },
+                        {
+                            "Type": 2,
+                            "Name": "RuraPion",
+                            "Id": 1461,
+                            "Desc": "",
+                            "Icon": null,
+                            "Priority": 0,
+                            "ParentId": 1769,
+                            "UniqueKeyId": 14612,
+                            "Children": null
+                        },
+                        {
+                            "Type": 2,
+                            "Name": "RuraPoziom",
+                            "Id": 1460,
+                            "Desc": "",
+                            "Icon": null,
+                            "Priority": 0,
+                            "ParentId": 1769,
+                            "UniqueKeyId": 14602,
+                            "Children": null
+                        },
+                        {
+                            "Type": 2,
+                            "Name": "ZaworPionowy",
+                            "Id": 1459,
+                            "Desc": "",
+                            "Icon": null,
+                            "Priority": 0,
+                            "ParentId": 1769,
+                            "UniqueKeyId": 14592,
+                            "Children": null
+                        },
+                        {
+                            "Type": 2,
+                            "Name": "ZaworPoziomy",
+                            "Id": 1458,
+                            "Desc": "",
+                            "Icon": null,
+                            "Priority": 0,
+                            "ParentId": 1769,
+                            "UniqueKeyId": 14582,
+                            "Children": null
+                        },
+                        {
+                            "Type": 2,
+                            "Name": "Zbiornik",
+                            "Id": 1457,
+                            "Desc": "",
+                            "Icon": null,
+                            "Priority": 0,
+                            "ParentId": 1769,
+                            "UniqueKeyId": 14572,
+                            "Children": null
+                        }
+                    ]
+                },
+                {
+                    "Type": 1,
                     "Name": "Analog Meters",
                     "Id": 1702,
                     "Desc": null,
@@ -6589,17 +6667,6 @@
                             "Priority": 0,
                             "ParentId": 1707,
                             "UniqueKeyId": 12732,
-                            "Children": null
-                        },
-                        {
-                            "Type": 2,
-                            "Name": "TankStorageVertFill",
-                            "Id": 1274,
-                            "Desc": "",
-                            "Icon": null,
-                            "Priority": 0,
-                            "ParentId": 1707,
-                            "UniqueKeyId": 12742,
                             "Children": null
                         },
                         {
