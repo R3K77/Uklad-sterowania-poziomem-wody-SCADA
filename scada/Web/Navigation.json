@@ -361,6 +361,17 @@
                         },
                         {
                             "Type": 2,
+                            "Name": "wodomierz",
+                            "Id": 1488,
+                            "Desc": "",
+                            "Icon": null,
+                            "Priority": 0,
+                            "ParentId": 1770,
+                            "UniqueKeyId": 14882,
+                            "Children": null
+                        },
+                        {
+                            "Type": 2,
                             "Name": "zawor_automat",
                             "Id": 1474,
                             "Desc": "",
